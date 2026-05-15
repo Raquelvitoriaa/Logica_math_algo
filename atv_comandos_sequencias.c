@@ -3,7 +3,71 @@
 
 void Exercicio01() {
 
-  printf("Exercicio 1: (deois ecrever  aquestao)!!");
+  int numero1, numero2, valor;
+  
+  printf("Exercicio 1: Faca um algoritmo que recebe dois valores inteiros e mostra o resultado da multiplicacao.");
+
+  printf("==================================================\n");
+  printf("MULTIPICACAO\n");
+  printf("===================================================\n");
+
+  printf("Digite o primeiro valor: ");
+  scanf("%d", &numero1);
+  printf("Digite o segundo valor: ");
+  scanf("%d", &numero2);
+
+  printf("O valor total foi de: %d", valor);
+}
+
+void Exercicio02() {
+
+  int numero, antecessor, sucessor;
+
+  printf("Fazer um algoritmo que leia um numero e mostre o seu antecessor e o seu sucessor");
+}
+
+void Exercicio03() {
+
+  Printf("Fazer um algoritmo que obtenha dois numeros inteiros, x e y, mostre o quociente e o resto da divisao inteira ente elas");
+
+}
+
+void Exercicio04() {
+
+  printf("Fazer um algoritmo que calcule e mostre: a soma entre dois numeros, o produto entre ele e o quociente entre ele");
+}
+
+void Exercicio05() {
+
+  printf("Fazer um algoritmo que converta centimentros para polegadas (1pol = 2,54cm)");
+}
+
+void Exercicio06() {
+
+  printf("Faca um algoritmo que recebe o valor do raio de um circulo e apresenta o valor da area do circulo.");
+}
+
+void Exercicio07() {
+
+  printf("Fazer um algoritmo que calcule e mostre a area e o volume de um cilindro (A = 2r (h
+}
+
+void Exercicio08() {
+}
+
+void Exercicio09() {
+}
+
+void Exercicio10() {
+}
+
+void Exercicio11() {
+}
+
+void Exercicio12() {
+}
+
+void Exercicio13() {
 }
 
 
